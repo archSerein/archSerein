@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# archSerein 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=1A73E8&vCenter=true&width=600&lines=This+is+archSerein;Welcome+to+explore+my+projects)](https://git.io/typing-svg)
+
+![archSerein's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=archSerein&count_private=true&show_icons=true&theme=radical&include_all_commits=true)  
 <!--
 **archSerein/archSerein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
